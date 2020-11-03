@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# WARNING!
+# Modifying this script will not affect the workflow
+# You have to write the change on the workflow with Automator
+# This script file is only for demostration.
+
+
 # Subdirectories
 IMAGES="./Images"
 PDF="./PDF"
